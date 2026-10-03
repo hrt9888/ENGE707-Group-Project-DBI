@@ -1,0 +1,7 @@
+python -m venv .venv
+# Activate it (Windows PowerShell):
+.venv\Scripts\activate
+# You should now see (.venv) at
+# the start of the terminal line.
+pip install numpy pandas scikit-learn 
+matplotlib jupyter
